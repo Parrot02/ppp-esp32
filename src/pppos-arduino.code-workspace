@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "pppos-arduino",
+			"path": "../../pppos-arduino"
+		},
+		{
+			"name": "jocimar",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.ejs": "html",
+			"freertos.h": "c",
+			"string.h": "c",
+			"event_groups.h": "c",
+			"task.h": "c",
+			"*.inc": "cpp",
+			"typeinfo": "cpp",
+			"usb_host.h": "c",
+			"cdc_acm_host.h": "c",
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"mutex": "cpp",
+			"stop_token": "cpp"
+		}
+	}
+}
